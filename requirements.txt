@@ -1,6 +1,4 @@
 streamlit
 numpy
-pandas 
-pickle
-gunicorn
+pandas
 sklearn
